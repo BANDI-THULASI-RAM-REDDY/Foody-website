@@ -20,15 +20,15 @@ A beautifully designed and responsive food website built using HTML and CSS. Thi
 ## Features
 
 - *Home Page*:A welcoming homepage introducing the food services, featuring a clean, appetizing layout with vibrant images and an enticing tagline to attract customers.
-- *Reservations*: A section that shares the story behind the brand and its commitment to delivering delicious food.
-- *Popular Menu*: Showcases customer-favorite dishes with mouthwatering images and descriptions.
-- *Support*: Showcases customer-favorite dishes with mouthwatering images and descriptions.
-- *Contact Us*: A contact section where users can find the phone number and email address to get in touch for queries or reservations.
+- *Reservations*: A dedicated section that provides an easy-to-use reservation form and highlights key details, such as available time slots, seating capacity, and any special offers for early bookings.
+- *Popular Menu*: A visually engaging section showcasing customer-favorite dishes with mouthwatering images, detailed descriptions, and pricing information to entice visitors.
+- *Support*: A user-friendly support section offering a FAQ, live chat option, and quick links to resolve common queries, ensuring a seamless customer experience.
+- *Contact Us*:A well-structured contact section where users can easily find the phone number, email address, and a contact form for queries or reservations.
 - *Responsive Design*: The website adjusts to different screen sizes for mobile, tablet, and desktop users, ensuring a seamless experience across all devices.
 
 ## Technologies Used
 
-- *Frontend*: HTML, CSS, JavaScript
+- *Frontend*: HTML, CSS
 
 ## Setup Instructions
 
